@@ -128,8 +128,7 @@ export default function Home() {
       those related to the South, migration, burned counties, African American
       history, Caribbean history, immigration, and numerous other localities and
       cultures. I have also conducted research for the "Who Do You Think You Are?"
-      television show, including the Regina King episode. My personal genealogy
-      research includes finding ancestors from Denmark and England.
+      television show, including the Regina King episode. I’m an accredited genealogist in African American, United States Mid-South and United States South Central Genealogy. My personal genealogy research includes finding ancestors in Tennessee, South Carolina, Denmark and England.
       </p>
 
         <p><strong>Daniel</strong>: I am a professor in the Computer Science Department at Brigham Young
