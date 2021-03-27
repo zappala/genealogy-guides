@@ -48,7 +48,7 @@ const Logo = styled.div`
 
 export default function Layout({ page, children }) {
     const isMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-    const isDesktop = useMediaQuery({ query: '(min-width: 1224px)' })
+    // const isDesktop = useMediaQuery({ query: '(min-width: 1224px)' })
     return (
         <Page>
 

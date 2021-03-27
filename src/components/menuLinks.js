@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from 'gatsby'
-import styled, { css } from "styled-components"
+import styled from "styled-components"
 
 const SectionName = styled.h1`
   font-size: 14px;
@@ -42,7 +42,7 @@ const Item = styled.li`
 
     a[aria-current='page'] {
         font-weight: 600;
-        border-color: blue;
+        border-color: #d03341;
         color: black;
     }
 `
