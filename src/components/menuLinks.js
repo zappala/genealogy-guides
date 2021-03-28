@@ -22,8 +22,7 @@ const SectionLinks = styled.ul`
 
 const Item = styled.li`
     padding: 0;
-    margin: 2px 0px 0px -2px;
-    margin-bottom: 24px;
+    margin: 2px 0px 4px -2px;
 
     a {
         color: #4a5568;
